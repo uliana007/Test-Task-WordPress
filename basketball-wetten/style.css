@@ -1,0 +1,23 @@
+/*
+Theme Name: Test Task Basketball
+Theme URI: https://example.com/test-task-basketball
+Author: Your Name
+Author URI: https://example.com
+Description: Тема WordPress для тестового задания по мультилендингу (Basketball).
+Version: 1.0.1
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+Text Domain: test-task-basketball
+*/
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
